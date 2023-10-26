@@ -1,0 +1,8 @@
+resourcePacks:["res.zip"]
+lang:ko_kr
+guiScale:2
+forceUnicodeFont:true
+renderDistance:12
+gamma:1.0
+key_Reload Menu | CTRL + :73
+key_Toggle Customization Overlay | CTRL + :73
